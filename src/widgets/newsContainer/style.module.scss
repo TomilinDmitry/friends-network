@@ -1,0 +1,26 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  border: 1px solid rgb(139, 139, 139);
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+  justify-content: center;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  //   padding: 10px;;
+  height: 700px;
+  overflow-y: auto;
+  gap: 20px;
+  li {
+    list-style: none;
+    width: 100%;
+  }
+}
+.newsBlock {
+display: flex;
+gap: 20px;
+}
