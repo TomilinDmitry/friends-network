@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d9ed04bb.css",
+    "main.js": "/static/js/main.697e4ba5.js",
+    "static/media/avatar.svg": "/static/media/avatar.9a95175fd72925561e58a0129b5e36c4.svg",
+    "static/media/newsPhoto.svg": "/static/media/newsPhoto.7300cbc392658e8baf6eb487fb7ec251.svg",
+    "static/media/home.svg": "/static/media/home.3c7f6edf4d3be223f4594b8f56f7a36b.svg",
+    "static/media/newspaper.svg": "/static/media/newspaper.9549acd5dac70f1fe73a3ffa31e6e557.svg",
+    "static/media/friends.svg": "/static/media/friends.31949ffbfd80790bc2b2188515549eca.svg",
+    "static/media/logout.svg": "/static/media/logout.06370fcafa1e1e332bbf77598ff2a123.svg",
+    "index.html": "/index.html",
+    "static/media/arrow.svg": "/static/media/arrow.cc60c14523cbcde00b88c0bd9d3ff1d6.svg",
+    "main.d9ed04bb.css.map": "/static/css/main.d9ed04bb.css.map",
+    "main.697e4ba5.js.map": "/static/js/main.697e4ba5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9ed04bb.css",
+    "static/js/main.697e4ba5.js"
+  ]
+}
