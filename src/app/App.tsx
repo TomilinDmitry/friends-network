@@ -1,25 +1,21 @@
 import React from "react";
 import Home from "../pages/Home";
 import { Route, Routes } from "react-router-dom";
-import NavBar from "../widgets/navBar";
 
-import style from "./App.module.scss";
+import style from "./styles/App.module.scss";
 import NewsPage from "../pages/NewsPage";
 import NewsDetails from "../pages/NewsDetails";
+import { MainPage } from "../pages/MainPage";
 
 function App() {
   return (
     <div className={style.app}>
-      <div>
-        <NavBar />
-      </div>
-      <main>
-        <Routes>
-          <Route path='/' element={<Home />} />
-          <Route path='/news' element={<NewsPage />} />
-          <Route path='/news/:id' element={<NewsDetails />} />
-        </Routes>
-      </main>
+      <Routes>
+        <Route path='/' element={<MainPage />} />
+        <Route path='/home' element={<Home />} />
+        <Route path='/news' element={<NewsPage />} />
+        <Route path='/news/:id' element={<NewsDetails />} />
+      </Routes>
     </div>
   );
 }

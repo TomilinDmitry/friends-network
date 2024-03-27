@@ -1,8 +1,7 @@
 import React from "react";
 import style from "./style.module.scss";
-import photo from "../../app/images/newsPhoto.svg";
+import photo from "../../app/assets/images/newsPhoto.svg";
 import {
-  useLocation,
   useNavigate,
   useParams,
 } from "react-router-dom";

@@ -1,0 +1,14 @@
+.gradient {
+  color: transparent;
+  background-clip: text;
+  background-image: radial-gradient(
+    circle,
+    rgba(255, 136, 0, 1) 0%,
+    rgba(255, 0, 134, 1) 100%
+  );
+  margin: 0;
+  letter-spacing: 10px;
+  font-size: 40px;
+  max-width: 500px;
+  width: 100%;
+}

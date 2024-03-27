@@ -1,9 +1,9 @@
 import React from "react";
 import style from "./style.module.scss";
 import { Link } from "react-router-dom";
-import home from "../../app/icons/home.svg";
-import friends from "../../app/icons/friends.svg";
-import news from "../../app/icons/newspaper.svg";
+import home from "../../app/assets/icons/home.svg";
+import friends from "../../app/assets/icons/friends.svg";
+import news from "../../app/assets/icons/newspaper.svg";
 import { useSelector } from "../../app/services/hooks/hooks";
 
 export const Navigation = () => {

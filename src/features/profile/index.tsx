@@ -1,7 +1,7 @@
 import React from "react";
 import style from "./style.module.scss";
-import avatar from "../../app/icons/avatar.svg";
-import arrow from "../../app/icons/arrow.svg";
+import avatar from "../../app/assets/icons/avatar.svg";
+import arrow from "../../app/assets/icons/arrow.svg";
 import { useSelector } from "../../app/services/hooks/hooks";
 type TProfileProps = {
   imageStyle: {

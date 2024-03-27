@@ -5,7 +5,7 @@ import style from "./style.module.scss";
 import { Navigation } from "../../shared/navigation";
 import { Link } from "react-router-dom";
 import Profile from "../../features/profile";
-import logout from "../../app/icons/logout.svg";
+import logout from "../../app/assets/icons/logout.svg";
 import {
   useDispatch,
   useSelector,
