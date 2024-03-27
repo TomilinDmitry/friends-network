@@ -1,9 +1,11 @@
 .container {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
   .navigationList {
     display: flex;
     list-style: none;
+    flex-wrap: wrap;
     justify-content: center;
     width: 500px;
     gap: 45px;
