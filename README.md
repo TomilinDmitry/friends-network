@@ -1,4 +1,4 @@
-# <a href=https://tomilindmitry.github.io/test-project/#/ style="color: white;">Friends social Network</a>
+# <a href=https://tomilindmitry.github.io/friends-network/#/ style="color: white;">Friends social Network</a>
 
 # Friends
 
