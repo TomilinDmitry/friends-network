@@ -1,8 +1,8 @@
-<a href=https://tomilindmitry.github.io/test-project/#/ style="color: white;">Тестовое задание</a>
+# <a href=https://tomilindmitry.github.io/friends-network/#/ style="color: white;">Friends social Network</a>
 
-# Test Project
+# Friends
 
-Добро пожаловать в Test Project! Этот проект разработан с использованием следующего стека технологий:
+Добро пожаловать в FRIENDS! Этот проект разработан с использованием следующего стека технологий:
 
 ## TypeScript   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="20" height="20"/>&nbsp;
 
