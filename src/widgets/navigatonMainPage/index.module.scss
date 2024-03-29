@@ -1,21 +1,22 @@
 .container {
   display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  .navigationList {
+  justify-content: center;
+}
+
+.media {
+  display: none;
+}
+@media screen and (max-width: 1200px) {
+  .desktopStyle {
+    display: none;
+  }
+  .container {
     display: flex;
-    list-style: none;
-    flex-wrap: wrap;
-    justify-content: center;
-    width: 500px;
-    gap: 45px;
-    color: white;
-    a {
-      color: white;
-      text-decoration: none;
-    }
-    li {
-      font-size: 40px;
+    justify-content: space-between;
+    .media {
+      display: flex;
+      max-width: 100%;
+      width: 100%;
     }
   }
 }

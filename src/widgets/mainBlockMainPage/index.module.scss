@@ -35,3 +35,21 @@
     }
   }
 }
+
+@media screen and (max-width: 1024px) {
+  .lastNews {
+    text-align: center;
+  }
+}
+@media screen and (max-width: 768px) {
+  .main {
+    .lastNews {
+      font-size: 40px;
+    }
+    .infoBlock {
+      .title {
+        font-size: 60px;
+      }
+    }
+  }
+}

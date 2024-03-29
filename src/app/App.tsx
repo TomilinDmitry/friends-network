@@ -6,7 +6,6 @@ import style from "./styles/App.module.scss";
 import NewsPage from "../pages/NewsPage";
 import NewsDetails from "../pages/NewsDetails";
 import { MainPage } from "../pages/MainPage";
-
 function App() {
   return (
     <div className={style.app}>
