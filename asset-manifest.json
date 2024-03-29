@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.49311486.css",
-    "main.js": "./static/js/main.b88e9359.js",
+    "main.css": "./static/css/main.b60f8d11.css",
+    "main.js": "./static/js/main.a483dd00.js",
     "static/media/avatar.svg": "./static/media/avatar.d3634f1e9c8b07bb4ce1e6fe789d7ca0.svg",
     "static/media/newsPhoto.svg": "./static/media/newsPhoto.c02da60e1b8122c649d0d3ec2f073142.svg",
     "static/media/background.jpg": "./static/media/background.4dfd0ec8c97cd3b2c1e7.jpg",
@@ -9,15 +9,17 @@
     "static/media/newspaper.svg": "./static/media/newspaper.da961cff4d460aebb346e77a257cea13.svg",
     "static/media/friends.svg": "./static/media/friends.e06ac506597b9489320f6210149e81a3.svg",
     "static/media/logout.svg": "./static/media/logout.3d4adf71a680e74315e49b80b18bc4a0.svg",
+    "static/media/burgerMenu.svg": "./static/media/burgerMenu.de8a83034935dca4537fbf6966f508ed.svg",
+    "static/media/close.svg": "./static/media/close.7b49f8fcf0e2b597f0f3c9cfd94a017b.svg",
     "index.html": "./index.html",
-    "static/media/arrowLeftWhite.svg": "./static/media/arrowLeftWhite.676bdbe92ee0c23f314cf054e56de2b3.svg",
-    "static/media/arrowRightWhite.svg": "./static/media/arrowRightWhite.3d95958017160c47ef7b60944621b710.svg",
+    "static/media/arrowLeftWhite.svg": "./static/media/arrowLeftWhite.740bb586102495afef907e3341c2b236.svg",
+    "static/media/arrowRightWhite.svg": "./static/media/arrowRightWhite.1eece61ba84ababb959e8683f1ab48c9.svg",
     "static/media/arrow.svg": "./static/media/arrow.0804a185595ff460efb451c46ae2b08b.svg",
-    "main.49311486.css.map": "./static/css/main.49311486.css.map",
-    "main.b88e9359.js.map": "./static/js/main.b88e9359.js.map"
+    "main.b60f8d11.css.map": "./static/css/main.b60f8d11.css.map",
+    "main.a483dd00.js.map": "./static/js/main.a483dd00.js.map"
   },
   "entrypoints": [
-    "static/css/main.49311486.css",
-    "static/js/main.b88e9359.js"
+    "static/css/main.b60f8d11.css",
+    "static/js/main.a483dd00.js"
   ]
 }
