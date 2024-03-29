@@ -44,12 +44,31 @@
 @media screen and (max-width: 768px) {
   .main {
     .lastNews {
-      font-size: 40px;
+      font-size: 32px;
     }
     .infoBlock {
       .title {
-        font-size: 60px;
+        font-size: 52px;
       }
+    }
+  }
+}
+@media screen and (max-width: 425px) {
+  .main {
+    gap: 20px;
+    .infoBlock {
+      gap: 20px;
+    }
+  }
+}
+@media screen and (max-height: 600px) {
+  .main {
+    gap: 20px;
+    .lastNews {
+      font-size: 40px;
+    }
+    .infoBlock {
+      gap: 20px;
     }
   }
 }

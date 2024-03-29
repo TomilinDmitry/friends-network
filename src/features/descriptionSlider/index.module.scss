@@ -17,6 +17,7 @@
   .active {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     gap: 10px;
     min-height: 305px;
     max-width: 800px;
@@ -34,5 +35,19 @@
   }
   .notActive {
     display: none;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .description {
+    font-size: 24px;
+  }
+}
+@media screen and (max-height: 600px) {
+  .description {
+    .active {
+      justify-content: flex-start;
+      min-height: 240px;
+    }
   }
 }
