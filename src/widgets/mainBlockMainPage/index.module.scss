@@ -37,8 +37,16 @@
 }
 
 @media screen and (max-width: 1024px) {
-  .lastNews {
-    text-align: center;
+  .main {
+    .lastNews {
+      font-size: 40px;
+      text-align: center;
+    }
+    .infoBlock {
+      .title {
+        font-size: 48px;
+      }
+    }
   }
 }
 @media screen and (max-width: 768px) {
@@ -53,7 +61,7 @@
     }
   }
 }
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 426px) {
   .main {
     gap: 20px;
     .infoBlock {
